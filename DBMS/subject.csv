@@ -1,0 +1,31 @@
+sub_id,sub_name,t_id,c_id
+1,Computer Networks,1,1
+2,Database Management,2,1
+3,Algorithm Design,3,1
+4,Machine Learning,4,1
+5,Software Engineering,5,1
+6,Data Structures,1,1
+7,Operating Systems,2,1
+8,Computer Architecture,3,1
+9,Computer Graphics,1,2
+10,Information Retrieval,2,2
+11,Artificial Intelligence,3,2
+12,Data Mining,4,2
+13,Cloud Computing,5,2
+14,Computer Vision,1,2
+15,Network Security,1,3
+16,Distributed Systems,2,3
+17,Programming Languages,3,3
+18,Web Development,4,3
+19,Parallel Computing,5,3
+20,Embedded Systems,1,3
+21,Cybersecurity,2,4
+22,Human-Computer Interaction,3,4
+23,Big Data Analytics,4,4
+24,Mobile Computing,5,4
+25,Software Testing,1,4
+26,IoT (Internet of Things),2,4
+27,Computer Ethics,3,4
+28,Quantum Computing,4,4
+29,Robotics,5,4
+30,Blockchain Technology,1,4
